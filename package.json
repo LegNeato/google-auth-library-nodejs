@@ -1,5 +1,5 @@
 {
-  "name": "google-auth-library",
+  "name": "pocketship-google-auth-library",
   "version": "0.9.9",
   "author": "Google Inc.",
   "description": "Google APIs Authentication Client Library for Node.js",
@@ -23,7 +23,7 @@
   "main": "./lib/auth/googleauth",
   "repository": {
     "type": "git",
-    "url": "https://github.com/google/google-auth-library-nodejs.git"
+    "url": "https://github.com/LegNeato/google-auth-library-nodejs.git"
   },
   "keywords": [
     "google",
